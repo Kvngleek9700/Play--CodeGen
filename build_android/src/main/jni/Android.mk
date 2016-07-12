@@ -79,6 +79,8 @@ LOCAL_SRC_FILES			:=	$(PROJECT_PATH)/tests/AliasTest.cpp \
 							$(PROJECT_PATH)/tests/MdSubTest.cpp \
 							$(PROJECT_PATH)/tests/MdTest.cpp \
 							$(PROJECT_PATH)/tests/MdUnpackTest.cpp \
+							$(PROJECT_PATH)/tests/MemAccess64Test.cpp \
+							$(PROJECT_PATH)/tests/MemAccessRefTest.cpp \
 							$(PROJECT_PATH)/tests/MemAccessTest.cpp \
 							$(PROJECT_PATH)/tests/Merge64Test.cpp \
 							$(PROJECT_PATH)/tests/MultTest.cpp \
